@@ -1,0 +1,55 @@
+.bg-card {
+    position: absolute;
+    width: 1294px;
+    height: 1231px;
+    left: 122px;
+    top: 156px;
+
+    background: #C4D3E9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.justify-content-around {
+    padding-top: 30px;
+
+}
+
+.card-1 {
+    position: absolute;
+    width: 548px;
+    height: 1084px;
+    /* white-1 */
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.buttonback {
+    position: absolute;
+    width: 98px;
+    height: 39px;
+    text-align: center;
+    background: #134B8A;
+    border-radius: 30px;
+}
+
+.fontback {
+    position: absolute;
+    left: 9.65%;
+    right: 85.83%;
+    top: 6.52%;
+    bottom: 91.69%;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    letter-spacing: 0.46px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
